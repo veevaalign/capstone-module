@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "Introduction": ["doc1"],
+    "Requirement Gathering": ["doc2"],
+    "Configurations": ["doc3"],
+    "Testing and Design": ["doc4"],
+    "Deployment": ["doc5"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
